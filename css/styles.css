@@ -462,9 +462,9 @@ body {
 }
 .invitation-title {
   display: inline-block;
-  font-family: Roboto;
+  font-family: var(--main-font);
   font-style: normal;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 14px;
   line-height: 16px;
   letter-spacing: 0.03em;
